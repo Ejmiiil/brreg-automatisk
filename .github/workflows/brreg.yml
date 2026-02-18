@@ -1,0 +1,35 @@
+name: Brreg Automatisk Henting
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # kjører hver dag kl 04:00
+  workflow_dispatch:       # lar deg kjøre manuelt
+  push:                    # kjører når du endrer filer
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run fetch script
+        run: node fetch.js
+
+      - name: Commit & push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add filtered.json filtered.csv
+          git commit -m "Oppdatert BRREG-data automatisk" || echo "No changes to commit"
+          git push
+``
