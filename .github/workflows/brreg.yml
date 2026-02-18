@@ -32,4 +32,3 @@ jobs:
           git add filtered.json filtered.csv
           git commit -m "Oppdatert BRREG-data automatisk" || echo "No changes to commit"
           git push
-``
