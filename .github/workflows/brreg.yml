@@ -1,5 +1,6 @@
 name: Brreg Automatisk Henting
-
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 4 * * *"   # kjører hver dag kl 04:00
