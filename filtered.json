@@ -217,6 +217,76 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937200056",
+    "navn": "FROGNER GRILL AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-02-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO",
+      "adresse": [
+        "Linderudveien 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-02-04",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-02-04",
+    "vedtektsfestetFormaal": [
+      "Fremstilling, salg og levering av takeaway-mat, samt produkter og",
+      "tjenester som naturlig faller sammen med dette."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-02-19",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-02-19",
+    "fravalgRevisjonBeslutningsDato": "2026-02-04",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-02-19"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937200056"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937176236",
     "navn": "JNS CONSULTING AS TVANGSAVVIKLINGSBO",
     "organisasjonsform": {
