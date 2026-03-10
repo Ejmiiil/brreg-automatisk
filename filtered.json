@@ -403,6 +403,74 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937314280",
+    "navn": "BURGER HOLMLIA AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-09",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1252",
+      "poststed": "OSLO",
+      "adresse": [
+        "Holmliaveien 102"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-02-16",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-02-16",
+    "vedtektsfestetFormaal": [
+      "Produksjon-, handel- og serveringsvirksomhet samt hva hermed står i",
+      "forbindelse, herunder å delta i selskaper med lignende virksomhet."
+    ],
+    "aktivitet": [
+      "Drift av gatekjøkken."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-03-09",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 100000,
+      "antallAksjer": 1000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-03-09"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937314280"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937253508",
     "navn": "C PIZZA AS",
     "organisasjonsform": {
@@ -1117,7 +1185,7 @@
     "paategninger": [],
     "fravalgRevisjonDato": "2026-02-06",
     "fravalgRevisjonBeslutningsDato": "2026-01-20",
-    "erIKonsern": false,
+    "erIKonsern": true,
     "kapital": {
       "belop": 30000,
       "antallAksjer": 30000,
