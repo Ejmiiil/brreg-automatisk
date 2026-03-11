@@ -733,6 +733,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "837330572",
+    "navn": "GOLDIE BAR OG SCENE AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0125",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Håvard Wiker",
+        "Postboks 1983 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-10",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.300",
+      "beskrivelse": "Drift av barer"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0183",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bernt Ankers gate 19"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-10",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837330572"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937273452",
     "navn": "HADDOUTI MARWAN",
     "organisasjonsform": {
@@ -988,214 +1051,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937245866"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937034539",
-    "navn": "MADSERUD BISTRO AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "hjemmeside": "madserudbistro.no",
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0455",
-      "poststed": "OSLO",
-      "adresse": [
-        "c/o BØRRESEN",
-        "Geitmyrsveien 36"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-02-17",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "epostadresse": "post@madserudbistro.no",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0274",
-      "poststed": "OSLO",
-      "adresse": [
-        "Jonsrudveien 6"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-01-03",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-01-03",
-    "vedtektsfestetFormaal": [
-      "Restaurantdrift."
-    ],
-    "aktivitet": [
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-02-17",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-02-17",
-    "fravalgRevisjonBeslutningsDato": "2026-01-03",
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 1000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-02-17"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937034539"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "837309972",
-    "navn": "MAHIDI M'HAMED",
-    "organisasjonsform": {
-      "kode": "ENK",
-      "beskrivelse": "Enkeltpersonforetak",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-06",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1071",
-      "poststed": "OSLO",
-      "adresse": [
-        "Lindebergåsen 5D"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "institusjonellSektorkode": {
-      "kode": "8200",
-      "beskrivelse": "Personlig næringsdrivende"
-    },
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837309972"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937113501",
-    "navn": "MANEKI AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-02-06",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0568",
-      "poststed": "OSLO",
-      "adresse": [
-        "Carl Berners plass 2"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-01-20",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-01-20",
-    "vedtektsfestetFormaal": [
-      "Selge varer og tjenester innen restaurantdrift og annet som naturlig",
-      "sammenfaller med dette, samt deltakelse i andre selskaper,",
-      "investeringer og nærliggende virksomhet."
-    ],
-    "aktivitet": [
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-02-06",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-02-06",
-    "fravalgRevisjonBeslutningsDato": "2026-01-20",
-    "erIKonsern": true,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 30000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-02-06"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937113501"
       }
     },
     "respons_klasse": "Enhet"
