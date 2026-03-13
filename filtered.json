@@ -488,7 +488,9 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -609,6 +611,78 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937323980",
+    "navn": "DET NYE SELSKAP AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-12",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0555",
+      "poststed": "OSLO",
+      "adresse": [
+        "Thorvald Meyers gate 30"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-02-12",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-02-12",
+    "vedtektsfestetFormaal": [
+      "Drive med matservering, catering, take away og andre produkter som",
+      "naturlig faller sammen med dette. Herunder å delta i andre selskaper",
+      "med lignende virksomhet. Og annen aktivitet som naturlig er knyttet",
+      "til dette."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-03-12",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-03-12",
+    "fravalgRevisjonBeslutningsDato": "2026-02-12",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-03-12"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937323980"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937200056",
     "navn": "FROGNER GRILL AS",
     "organisasjonsform": {
@@ -626,7 +700,9 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -946,12 +1022,14 @@
       "kommunenummer": "0301"
     },
     "registreringsdatoEnhetsregisteret": "2026-03-11",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-12",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
