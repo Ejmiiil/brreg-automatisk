@@ -683,6 +683,70 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937375751",
+    "navn": "EDHOLMEN DRIFT AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0125",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Frank Charles Aase",
+        "Postboks 2043 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-17",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0254",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o BA5 Invest AS",
+        "Cort Adelers gate 17"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-17",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937375751"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937200056",
     "navn": "FROGNER GRILL AS",
     "organisasjonsform": {
@@ -1076,12 +1140,14 @@
       "kommunenummer": "0301"
     },
     "registreringsdatoEnhetsregisteret": "2026-03-16",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-17",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1243,71 +1309,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937365721"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937176236",
-    "navn": "JNS CONSULTING AS TVANGSAVVIKLINGSBO",
-    "organisasjonsform": {
-      "kode": "KBO",
-      "beskrivelse": "Konkursbo",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
-        }
-      }
-    },
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0103",
-      "poststed": "OSLO",
-      "adresse": [
-        "v/Adv. Viggo Scherger",
-        "Postboks 394 Sentrum"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-02-16",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-01-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-02-17",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1461",
-      "poststed": "LØRENSKOG",
-      "adresse": [
-        "Solheimveien 48"
-      ],
-      "kommune": "LØRENSKOG",
-      "kommunenummer": "3222"
-    },
-    "stiftelsesdato": "2026-02-16",
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Tvangsavviklingsbo."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937176236"
       }
     },
     "respons_klasse": "Enhet"
