@@ -65,6 +65,77 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937410778",
+    "navn": "AMORA AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1263",
+      "poststed": "OSLO",
+      "adresse": [
+        "Nedre Prinsdals vei 70J"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-06",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-03-06",
+    "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen restaurantdrift - og annet som naturlig",
+      "sammenfaller med dette - samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-03-24",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-03-24",
+    "fravalgRevisjonBeslutningsDato": "2026-03-06",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-03-24"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937410778"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937035330",
     "navn": "AQUARELA AS",
     "organisasjonsform": {
@@ -469,6 +540,69 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837140722"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937414188",
+    "navn": "BRINIS & HANSEN AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0278",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Thomas Berg Nordahl",
+        "Karenslyst allé 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0188",
+      "poststed": "OSLO",
+      "adresse": [
+        "Grønland 12B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-24",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937414188"
       }
     },
     "respons_klasse": "Enhet"
@@ -948,6 +1082,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937415044",
+    "navn": "GASTROKJELL AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0278",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Thomas Berg Nordahl",
+        "Karenslyst allé 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0382",
+      "poststed": "OSLO",
+      "adresse": [
+        "Hoffsjef Løvenskiolds vei 1A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-24",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937415044"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937296207",
     "navn": "GBEKO NATHAN NGANDU",
     "organisasjonsform": {
@@ -1062,6 +1259,69 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837330572"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937417616",
+    "navn": "GRILL OSLO AS TVANGSAVVIKLINGSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0129",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Anne Helsingeng",
+        "Postboks 6604 St. Olavs plass"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rosenkrantz' gate 7"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-24",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Tvangsavviklingsbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937417616"
       }
     },
     "respons_klasse": "Enhet"
@@ -1188,204 +1448,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937238444"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937367864",
-    "navn": "HIGHFIVE MUNCH AS KONKURSBO",
-    "organisasjonsform": {
-      "kode": "KBO",
-      "beskrivelse": "Konkursbo",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
-        }
-      }
-    },
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0278",
-      "poststed": "OSLO",
-      "adresse": [
-        "v/Adv. Henrik Schumann Sager",
-        "Karenslyst allé 16"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-16",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-17",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0194",
-      "poststed": "OSLO",
-      "adresse": [
-        "Operagata 13"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-03-16",
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Konkursbo."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937367864"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937336969",
-    "navn": "HOKKIGAI SUSHI AS KONKURSBO",
-    "organisasjonsform": {
-      "kode": "KBO",
-      "beskrivelse": "Konkursbo",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
-        }
-      }
-    },
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0122",
-      "poststed": "OSLO",
-      "adresse": [
-        "v/Adv. Stine Snertingdalen",
-        "Postboks 1752 Vika"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-11",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-12",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0171",
-      "poststed": "OSLO",
-      "adresse": [
-        "Waldemar Thranes gate 2"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-03-11",
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Konkursbo."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937336969"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937365721",
-    "navn": "HOLMLIA PIZZA AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-16",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1252",
-      "poststed": "OSLO",
-      "adresse": [
-        "Holmliaveien 102"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-02-16",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-02-16",
-    "vedtektsfestetFormaal": [
-      "Produksjon-, handel- og serveringsvirksomhet samt hva hermed står i",
-      "forbindelse, herunder å delta i selskaper med lignende virksomhet."
-    ],
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-03-16",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 100000,
-      "antallAksjer": 1000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-03-16"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937365721"
       }
     },
     "respons_klasse": "Enhet"
