@@ -215,6 +215,78 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937442629",
+    "navn": "ASR RESTAURANT AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-27",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0585",
+      "poststed": "OSLO",
+      "adresse": [
+        "Lørenveien 40"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-05",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-03-05",
+    "vedtektsfestetFormaal": [
+      "Kioskdrift og gatekjøkken og salg av produkter som naturlig faller",
+      "sammen med dette, herunder å delta i andre selskaper med lignende",
+      "virksomhet. Kjøp og salg av aksjer eller på annen måte gjøre seg",
+      "interessert i andre foretak."
+    ],
+    "aktivitet": [
+      "Drift av gatekjøkken."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-03-27",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-03-27",
+    "fravalgRevisjonBeslutningsDato": "2026-03-05",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-03-27"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937442629"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937378122",
     "navn": "AY YED MÆ AS",
     "organisasjonsform": {
@@ -1382,62 +1454,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937417616"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937273452",
-    "navn": "HADDOUTI MARWAN",
-    "organisasjonsform": {
-      "kode": "ENK",
-      "beskrivelse": "Enkeltpersonforetak",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-02",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-20",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-21",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1071",
-      "poststed": "OSLO",
-      "adresse": [
-        "Lindebergåsen 5D"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "institusjonellSektorkode": {
-      "kode": "8200",
-      "beskrivelse": "Personlig næringsdrivende"
-    },
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937273452"
       }
     },
     "respons_klasse": "Enhet"
