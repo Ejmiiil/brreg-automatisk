@@ -875,6 +875,60 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937451547",
+    "navn": "CHABANE LOQMAN",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-03-29",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0673",
+      "poststed": "OSLO",
+      "adresse": [
+        "Johan Castbergs vei 10"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Drift av gatekjøkken."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937451547"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "837114152",
     "navn": "COLLETTS PARKSERVERING AS",
     "organisasjonsform": {
@@ -1389,71 +1443,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837330572"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937417616",
-    "navn": "GRILL OSLO AS TVANGSAVVIKLINGSBO",
-    "organisasjonsform": {
-      "kode": "KBO",
-      "beskrivelse": "Konkursbo",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
-        }
-      }
-    },
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0129",
-      "poststed": "OSLO",
-      "adresse": [
-        "v/Adv. Anne Helsingeng",
-        "Postboks 6604 St. Olavs plass"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-24",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-25",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0159",
-      "poststed": "OSLO",
-      "adresse": [
-        "Rosenkrantz' gate 7"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-03-24",
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Tvangsavviklingsbo."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937417616"
       }
     },
     "respons_klasse": "Enhet"
