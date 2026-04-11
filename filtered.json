@@ -804,6 +804,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937506996",
+    "navn": "BURGERS N SHAKES AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0117",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Leif Petter Madsen",
+        "Postboks 1513 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-04-10",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0560",
+      "poststed": "OSLO",
+      "adresse": [
+        "Trondheimsveien 8"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-10",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937506996"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937253508",
     "navn": "C PIZZA AS",
     "organisasjonsform": {
