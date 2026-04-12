@@ -617,6 +617,83 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937512252",
+    "navn": "BOOST LAB AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-04-11",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1170",
+      "poststed": "OSLO",
+      "adresse": [
+        "Kastellveien 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-30",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-03-30",
+    "vedtektsfestetFormaal": [
+      "Leverer og drifter automatiserte salgsautomater for ferske smoothies",
+      "og shakes. Selskapet plasserer maskiner hos treningssentre,",
+      "kontorbygg, skoler og andre høytrafikkerte lokasjoner i Norge, og",
+      "håndterer hele verdikjeden inkl. installasjon, påfyll av råvarer,",
+      "vedlikehold og oppfølging av drift. Produktene lages på stedet i",
+      "maskinen og selges direkte til sluttkunde. Inntekter kommer fra salg",
+      "per enhet (drikke) samt eventuelle tilleggsvalg (f.eks. protein). Det",
+      "inngås avtaler med lokasjonspartnere om plassering av maskiner, typisk",
+      "med en andel av omsetningen som kompensasjon."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-04-11",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-04-11",
+    "fravalgRevisjonBeslutningsDato": "2026-03-30",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-04-11"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937512252"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937440014",
     "navn": "BOUCHENAFA YOUCEF",
     "organisasjonsform": {
