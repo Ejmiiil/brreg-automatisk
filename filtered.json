@@ -154,9 +154,11 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-02",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-04-14",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-04-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -299,12 +301,14 @@
       }
     },
     "registreringsdatoEnhetsregisteret": "2026-03-18",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-04-14",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-14",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -905,12 +909,14 @@
       "kommunenummer": "0301"
     },
     "registreringsdatoEnhetsregisteret": "2026-04-10",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-13",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -961,9 +967,7 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": true,
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-12",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+    "harRegistrertAntallAnsatte": false,
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
