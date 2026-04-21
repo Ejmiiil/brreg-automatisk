@@ -775,12 +775,14 @@
       }
     },
     "registreringsdatoEnhetsregisteret": "2026-03-27",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-04-19",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-20",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1096,12 +1098,14 @@
       }
     },
     "registreringsdatoEnhetsregisteret": "2026-03-29",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-04-18",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-20",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
