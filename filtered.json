@@ -65,6 +65,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937591071",
+    "navn": "ALLÉEN AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0103",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Viggo Scherger",
+        "Postboks 394 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-04-23",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.300",
+      "beskrivelse": "Drift av barer"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0262",
+      "poststed": "OSLO",
+      "adresse": [
+        "Bygdøy allé 21"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-22",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937591071"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937297033",
     "navn": "ALT GODT AS KONKURSBO",
     "organisasjonsform": {
@@ -1349,6 +1412,78 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937323980"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937590512",
+    "navn": "DUCK & DUMPLINGS AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-04-23",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0161",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortingsgata 12"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-27",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-03-27",
+    "vedtektsfestetFormaal": [
+      "Drift av serveringsvirksomhet, take away, kafe og andre",
+      "produkter/tjenester som naturlig hører sammen med dette, herunder å",
+      "investere i andre selskaper, og kjøp og salg av aksjer. Produksjon og",
+      "salg av ferdigmat."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-04-23",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-04-23",
+    "fravalgRevisjonBeslutningsDato": "2026-03-27",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-04-23"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937590512"
       }
     },
     "respons_klasse": "Enhet"
