@@ -1,5 +1,77 @@
 [
   {
+    "organisasjonsnummer": "937691246",
+    "navn": "ABYSSINIA COFFEE HOUSE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-11",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0169",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o Benjamin Olai Hilleren",
+        "Colletts gate 13B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-12",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-04-12",
+    "vedtektsfestetFormaal": [
+      "Kaffebar og serveringssted, salg av kaffe, matvarer og tilhørende",
+      "produkter, samt alt hva herved står i forbindelse."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe.",
+      "Produksjon og salg av bakevarer."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-11",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-11",
+    "fravalgRevisjonBeslutningsDato": "2026-04-12",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-11"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937691246"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937549814",
     "navn": "AFEL AS KONKURSBO",
     "organisasjonsform": {
@@ -1348,9 +1420,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "antallAnsatte": 7,
+    "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-11",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-15",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
