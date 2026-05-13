@@ -358,11 +358,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
+    "antallAnsatte": 5,
     "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-02",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-04-14",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-04-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1541,78 +1542,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937572999"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937323980",
-    "navn": "DET NYE SELSKAP AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-03-12",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0555",
-      "poststed": "OSLO",
-      "adresse": [
-        "Thorvald Meyers gate 30"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-02-12",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-02-12",
-    "vedtektsfestetFormaal": [
-      "Drive med matservering, catering, take away og andre produkter som",
-      "naturlig faller sammen med dette. Herunder å delta i andre selskaper",
-      "med lignende virksomhet. Og annen aktivitet som naturlig er knyttet",
-      "til dette."
-    ],
-    "aktivitet": [
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-03-12",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-03-12",
-    "fravalgRevisjonBeslutningsDato": "2026-02-12",
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 30000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-03-12"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937323980"
       }
     },
     "respons_klasse": "Enhet"
