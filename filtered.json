@@ -1083,6 +1083,79 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937729928",
+    "navn": "BREW & BLISS AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0986",
+      "poststed": "OSLO",
+      "adresse": [
+        "Tokerudberget 23"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-05-07",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-05-07",
+    "vedtektsfestetFormaal": [
+      "Drift av food truck og salg av kaffe, chai, te, desserter og",
+      "beslektede produkter, samt annen virksomhet som naturlig hører sammen",
+      "med dette."
+    ],
+    "aktivitet": [
+      "Konditori med kafedrift.",
+      "Drift av restaurant/kafe.",
+      "Produksjon og salg av bakevarer."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-19",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-19",
+    "fravalgRevisjonBeslutningsDato": "2026-05-07",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 100,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-19"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937729928"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937414188",
     "navn": "BRINIS & HANSEN AS KONKURSBO",
     "organisasjonsform": {
@@ -1529,75 +1602,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837114152"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937572999",
-    "navn": "DACKEL & DAUGHTERS AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-04-21",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0178",
-      "poststed": "OSLO",
-      "adresse": [
-        "Rosteds gate 15B"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-04-08",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-04-08",
-    "vedtektsfestetFormaal": [
-      "Drive en restaurant."
-    ],
-    "aktivitet": [
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-04-21",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-04-21",
-    "fravalgRevisjonBeslutningsDato": "2026-04-08",
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 30000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-04-21"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937572999"
       }
     },
     "respons_klasse": "Enhet"
