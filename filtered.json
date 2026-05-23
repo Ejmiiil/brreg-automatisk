@@ -137,6 +137,139 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937762321",
+    "navn": "AGATA ZYRA",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0484",
+      "poststed": "OSLO",
+      "adresse": [
+        "Fernanda Nissens gate 3F"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937762321"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937757832",
+    "navn": "AKERSEL AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0691",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o M M IMRAN IQBAL IMON",
+        "Bølerlia 55"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-20",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-04-20",
+    "vedtektsfestetFormaal": [
+      "Drive kafe og restaurant. Kjøp, produsent, salg av mat, drikke,",
+      "bakevarer, konditori og matvarer. Eksport, import, salg av matvarer,",
+      "drikke og dagligvarer. Engrosshandel av matvarer, drikke og",
+      "dagligvarer. Kjøp, salg og utleie av fast eiendom. Import, salg av",
+      "klær, lærvarer, tilbehør. Drive transporttjenester. Drive renhold og",
+      "vedlikehold tjenester. Salg av varer og tjenester."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe.",
+      "Drift av gatekjøkken.",
+      "Catering.",
+      "Dagligvarebutikk.",
+      "Netthandel med tekstiler og utstyrsvarer."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-22",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-22",
+    "fravalgRevisjonBeslutningsDato": "2026-04-20",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-22"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937757832"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937591071",
     "navn": "ALLÉEN AS KONKURSBO",
     "organisasjonsform": {
@@ -698,6 +831,69 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937305400"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937763778",
+    "navn": "BLUE NIGHT AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0278",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Fredrik Sars Jørner",
+        "Karenslyst allé 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-22",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.300",
+      "beskrivelse": "Drift av barer"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 4"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-05-22",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937763778"
       }
     },
     "respons_klasse": "Enhet"
