@@ -767,6 +767,63 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937656459",
+    "navn": "BAMBOO VO",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-19",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0594",
+      "poststed": "OSLO",
+      "adresse": [
+        "Erich Mogensøns vei 26"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Drift av gatekjøkken/takeaway og alt som står i naturlig forbindelse",
+      "med dette. Drift av restauranter og kafeer og alt som står i naturlig",
+      "forbindelse med dette."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-19",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937656459"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937305400",
     "navn": "BAR69 AS",
     "organisasjonsform": {
