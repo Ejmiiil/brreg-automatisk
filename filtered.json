@@ -702,6 +702,75 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937772491",
+    "navn": "B&H SUSHI AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-26",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0982",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stovnerveien 48B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-05-07",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-05-07",
+    "vedtektsfestetFormaal": [
+      "Restaurant."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-26",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-26",
+    "fravalgRevisjonBeslutningsDato": "2026-05-07",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 2,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-26"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937772491"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937291329",
     "navn": "BABBO COLLECTIVE ØVREFOSS AS TVANGSAVVIKLINGSBO",
     "organisasjonsform": {
@@ -917,12 +986,14 @@
       "kommunenummer": "0301"
     },
     "registreringsdatoEnhetsregisteret": "2026-05-22",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.300",
       "beskrivelse": "Drift av barer"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-26",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1781,80 +1852,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937689586"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "837114152",
-    "navn": "COLLETTS PARKSERVERING AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-02-06",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "antallAnsatte": 7,
-    "harRegistrertAntallAnsatte": true,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-04-11",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-15",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0169",
-      "poststed": "OSLO",
-      "adresse": [
-        "Colletts gate 33"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-01-08",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-01-08",
-    "vedtektsfestetFormaal": [
-      "Restaurantdrift, samt andre tjenester som hører sammen med dette."
-    ],
-    "aktivitet": [
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-02-06",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-02-06",
-    "fravalgRevisjonBeslutningsDato": "2026-01-08",
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 30000,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-02-06"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837114152"
       }
     },
     "respons_klasse": "Enhet"
