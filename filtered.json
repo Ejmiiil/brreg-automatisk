@@ -555,6 +555,93 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937681836",
+    "navn": "ARCTIC TREASURE AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1387",
+      "poststed": "ASKER",
+      "adresse": [
+        "Seljestien 30"
+      ],
+      "kommune": "ASKER",
+      "kommunenummer": "3203"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-06-01",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0158",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stortingsgata 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-03-19",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-03-19",
+    "vedtektsfestetFormaal": [
+      "Drift av restauranter og kafeer, produksjon av brød og ferske",
+      "konditorvarer, cateringvirksomhet, produksjon av",
+      "smakstilsettingsstoffer og krydderier, produksjon av kjøtt- og",
+      "fjørfevarer, produksjon av ferdigmat, butikkhandel med bakervarer og",
+      "konditorvarer, butikkhandel med sukkervarer, produksjon av",
+      "næringsmidler ikke nevnt annet sted og hva herved står i forbindelse.",
+      "ap. Med hovedvekt på investering, utvikling og forvaltning av fast",
+      "eiendom og restaurantvirksomhet og alt som står i naturlig forbindelse",
+      "med dette, herunder direkte og indirekte investeringer som driver slik",
+      "virksomhet."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-06-01",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 300,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-06-01"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937681836"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937442629",
     "navn": "ASR RESTAURANT AS",
     "organisasjonsform": {
@@ -957,6 +1044,69 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937305400"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937803893",
+    "navn": "BELLA GRILL HOUSE AS TVANGSAVVIKLINGSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0114",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Egil Hatling",
+        "Postboks 1364 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-06-01",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0182",
+      "poststed": "OSLO",
+      "adresse": [
+        "Storgata 45"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-06-01",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Tvangsavviklingsbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937803893"
       }
     },
     "respons_klasse": "Enhet"
@@ -1545,6 +1695,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937809182",
+    "navn": "BUREK KING TORGGATA AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0122",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Stine Snertingdalen",
+        "Postboks 1752 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-06-02",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.120",
+      "beskrivelse": "Drift av mobile serveringssteder"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0181",
+      "poststed": "OSLO",
+      "adresse": [
+        "Torggata 16A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-06-02",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937809182"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937314280",
     "navn": "BURGER HOLMLIA AS",
     "organisasjonsform": {
@@ -1747,6 +1960,77 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937801882",
+    "navn": "CASA BELLA RESTAURANT AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "registreringsdatoEnhetsregisteret": "2026-06-01",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0165",
+      "poststed": "OSLO",
+      "adresse": [
+        "Langes gate 1A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-26",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-04-26",
+    "vedtektsfestetFormaal": [
+      "Drift av gatekjøkken/restaurant med alkohol servering og det som",
+      "naturlig faller sammen."
+    ],
+    "aktivitet": [
+      "Drift av gatekjøkken.",
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-06-01",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-06-01",
+    "fravalgRevisjonBeslutningsDato": "2026-04-26",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 100,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-06-01"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937801882"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937451547",
     "navn": "CHABANE LOQMAN",
     "organisasjonsform": {
@@ -1798,60 +2082,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937451547"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937689586",
-    "navn": "CHGOURI BILAL",
-    "organisasjonsform": {
-      "kode": "ENK",
-      "beskrivelse": "Enkeltpersonforetak",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-05-10",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1086",
-      "poststed": "OSLO",
-      "adresse": [
-        "Skanseveien 11"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "institusjonellSektorkode": {
-      "kode": "8200",
-      "beskrivelse": "Personlig næringsdrivende"
-    },
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937689586"
       }
     },
     "respons_klasse": "Enhet"
