@@ -1760,6 +1760,69 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "937826028",
+    "navn": "BRISKEBY BÁNH MI AS TVANGSAVVIKLINGSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0115",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Ingrid E S. Tronshaug",
+        "Postboks 1400 Vika"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-06-04",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0259",
+      "poststed": "OSLO",
+      "adresse": [
+        "Briskebyveien 22B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-06-04",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Tvangsavviklingsbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937826028"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937810008",
     "navn": "BUREK KING AS KONKURSBO",
     "organisasjonsform": {
@@ -2087,77 +2150,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937253508"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937801882",
-    "navn": "CASA BELLA RESTAURANT AS",
-    "organisasjonsform": {
-      "kode": "AS",
-      "beskrivelse": "Aksjeselskap",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      }
-    },
-    "registreringsdatoEnhetsregisteret": "2026-06-01",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0165",
-      "poststed": "OSLO",
-      "adresse": [
-        "Langes gate 1A"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-04-26",
-    "institusjonellSektorkode": {
-      "kode": "2100",
-      "beskrivelse": "Private aksjeselskaper mv."
-    },
-    "registrertIForetaksregisteret": true,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "vedtektsdato": "2026-04-26",
-    "vedtektsfestetFormaal": [
-      "Drift av gatekjøkken/restaurant med alkohol servering og det som",
-      "naturlig faller sammen."
-    ],
-    "aktivitet": [
-      "Drift av gatekjøkken.",
-      "Drift av restaurant/kafe."
-    ],
-    "registreringsdatoForetaksregisteret": "2026-06-01",
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "fravalgRevisjonDato": "2026-06-01",
-    "fravalgRevisjonBeslutningsDato": "2026-04-26",
-    "erIKonsern": false,
-    "kapital": {
-      "belop": 30000,
-      "antallAksjer": 100,
-      "type": "Aksjekapital",
-      "valuta": "NOK",
-      "innfortDato": "2026-06-01"
-    },
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937801882"
       }
     },
     "respons_klasse": "Enhet"
