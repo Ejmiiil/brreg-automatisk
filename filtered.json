@@ -1197,6 +1197,79 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "837984572",
+    "navn": "BAMBOO SAGENE TRAN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "registreringsdatoEnhetsregisteret": "2026-06-26",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0461",
+      "poststed": "OSLO",
+      "adresse": [
+        "Stockfleths gate 53B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-06-07",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-06-07",
+    "vedtektsfestetFormaal": [
+      "Drift av restaurant med servering av sushi, vietnamesiske og",
+      "thailandske matretter, salg av mat og drikke, take-away, catering og",
+      "relaterte tjenester, samt annen virksomhet som naturlig faller inn",
+      "under dette."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-06-26",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-06-26",
+    "fravalgRevisjonBeslutningsDato": "2026-06-07",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-06-26"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837984572"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937656459",
     "navn": "BAMBOO VO",
     "organisasjonsform": {
@@ -1847,63 +1920,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937512252"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937440014",
-    "navn": "BOUCHENAFA YOUCEF",
-    "organisasjonsform": {
-      "kode": "ENK",
-      "beskrivelse": "Enkeltpersonforetak",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
-        }
-      }
-    },
-    "historiskeNavn": [],
-    "registreringsdatoEnhetsregisteret": "2026-03-27",
-    "registrertIMvaregisteret": true,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-04-19",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-20",
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0673",
-      "poststed": "OSLO",
-      "adresse": [
-        "Johan Castbergs vei 10"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "institusjonellSektorkode": {
-      "kode": "8200",
-      "beskrivelse": "Personlig næringsdrivende"
-    },
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937440014"
       }
     },
     "respons_klasse": "Enhet"
