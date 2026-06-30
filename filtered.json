@@ -1544,12 +1544,14 @@
       "kommunenummer": "0301"
     },
     "registreringsdatoEnhetsregisteret": "2026-06-26",
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "naeringskode1": {
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
     "harRegistrertAntallAnsatte": false,
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-06-29",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1773,6 +1775,95 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837140722"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937716354",
+    "navn": "BOBA BOYS ARKADEN AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "historiskeNavn": [
+      {
+        "navn": "AFAS 290426-11 AS",
+        "fraDato": "2026-05-15 11:53:27",
+        "tilDato": "2026-06-29 12:21:52"
+      }
+    ],
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0666",
+      "poststed": "OSLO",
+      "adresse": [
+        "c/o  Alt Innen AS",
+        "Ole Deviks vei 2"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-05-15",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0154",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 5"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-29",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-05-27",
+    "vedtektsfestetFormaal": [
+      "Å drive salg av Boba te, kioskvarer og mat samt investering i andre",
+      "selskaper."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-15",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-15",
+    "fravalgRevisjonBeslutningsDato": "2026-04-29",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 3000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-15"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937716354"
       }
     },
     "respons_klasse": "Enhet"
