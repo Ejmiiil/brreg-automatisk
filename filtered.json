@@ -792,9 +792,11 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-02",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1346,9 +1348,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "antallAnsatte": 5,
+    "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-06-23",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
