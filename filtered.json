@@ -194,61 +194,6 @@
     "respons_klasse": "Enhet"
   },
   {
-    "organisasjonsnummer": "937881142",
-    "navn": "AHMED FASTFOOD",
-    "organisasjonsform": {
-      "kode": "ENK",
-      "beskrivelse": "Enkeltpersonforetak",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
-        }
-      }
-    },
-    "historiskeNavn": [],
-    "registreringsdatoEnhetsregisteret": "2026-06-18",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "1086",
-      "poststed": "OSLO",
-      "adresse": [
-        "Folkvangveien 42"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "institusjonellSektorkode": {
-      "kode": "8200",
-      "beskrivelse": "Personlig næringsdrivende"
-    },
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937881142"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
     "organisasjonsnummer": "937757832",
     "navn": "AKERSEL AS",
     "organisasjonsform": {
@@ -392,6 +337,61 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937591071"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937714777",
+    "navn": "ALNES VAFLER",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "registreringsdatoEnhetsregisteret": "2026-06-03",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0159",
+      "poststed": "OSLO",
+      "adresse": [
+        "Karl Johans gate 25"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Vaffelbod."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937714777"
       }
     },
     "respons_klasse": "Enhet"
