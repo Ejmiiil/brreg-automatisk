@@ -481,9 +481,11 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-10",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-28",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -556,12 +558,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "antallAnsatte": 5,
+    "antallAnsatte": 8,
     "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-02",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-12",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-05-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -794,11 +796,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
+    "antallAnsatte": 6,
     "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-02",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1124,6 +1127,82 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937944802"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "937675496",
+    "navn": "BAGELITO PILESTREDET AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "historiskeNavn": [
+      {
+        "navn": "JEHS 65 426 AS",
+        "fraDato": "2026-05-07 10:28:57",
+        "tilDato": "2026-08-07 10:42:48"
+      }
+    ],
+    "registreringsdatoEnhetsregisteret": "2026-05-07",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0166",
+      "poststed": "OSLO",
+      "adresse": [
+        "Pilestredet 39"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-04-14",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-07-06",
+    "vedtektsfestetFormaal": [
+      "Bagels."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-05-07",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-05-07",
+    "fravalgRevisjonBeslutningsDato": "2026-04-14",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 1000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-05-07"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937675496"
       }
     },
     "respons_klasse": "Enhet"
