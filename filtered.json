@@ -463,6 +463,78 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "938337403",
+    "navn": "AMI OSLO AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "registreringsdatoEnhetsregisteret": "2026-08-24",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0493",
+      "poststed": "OSLO",
+      "adresse": [
+        "Marsveien 5B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-08-12",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-08-12",
+    "vedtektsfestetFormaal": [
+      "Selge varer og tjenester innen gatekjøkkendrift - og annet som",
+      "naturlig sammenfaller med dette - samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
+    ],
+    "aktivitet": [
+      "Drift av gatekjøkken."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-08-24",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-08-24",
+    "fravalgRevisjonBeslutningsDato": "2026-08-12",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 30000,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-08-24"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938337403"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937410778",
     "navn": "AMORA AS",
     "organisasjonsform": {
@@ -906,6 +978,61 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937442629"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
+    "organisasjonsnummer": "938121931",
+    "navn": "ASTROZA KONSULENTTJENESTER",
+    "organisasjonsform": {
+      "kode": "ENK",
+      "beskrivelse": "Enkeltpersonforetak",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "registreringsdatoEnhetsregisteret": "2026-07-17",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.300",
+      "beskrivelse": "Drift av barer"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0467",
+      "poststed": "OSLO",
+      "adresse": [
+        "Maridalsveien 237A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "institusjonellSektorkode": {
+      "kode": "8200",
+      "beskrivelse": "Personlig næringsdrivende"
+    },
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Drift av pub."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938121931"
       }
     },
     "respons_klasse": "Enhet"
@@ -1594,70 +1721,6 @@
     "_links": {
       "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937852002"
-      }
-    },
-    "respons_klasse": "Enhet"
-  },
-  {
-    "organisasjonsnummer": "937803893",
-    "navn": "BELLA GRILL HOUSE AS TVANGSAVVIKLINGSBO",
-    "organisasjonsform": {
-      "kode": "KBO",
-      "beskrivelse": "Konkursbo",
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
-        }
-      }
-    },
-    "historiskeNavn": [],
-    "postadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0114",
-      "poststed": "OSLO",
-      "adresse": [
-        "v/Adv. Egil Hatling",
-        "Postboks 1364 Vika"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "registreringsdatoEnhetsregisteret": "2026-06-01",
-    "registrertIMvaregisteret": false,
-    "naeringskode1": {
-      "kode": "56.110",
-      "beskrivelse": "Drift av restauranter"
-    },
-    "harRegistrertAntallAnsatte": false,
-    "forretningsadresse": {
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0182",
-      "poststed": "OSLO",
-      "adresse": [
-        "Storgata 45"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301"
-    },
-    "stiftelsesdato": "2026-06-01",
-    "registrertIForetaksregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "registrertIFrivillighetsregisteret": false,
-    "konkurs": false,
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "maalform": "Bokmål",
-    "aktivitet": [
-      "Tvangsavviklingsbo."
-    ],
-    "registrertIPartiregisteret": false,
-    "paategninger": [],
-    "erIKonsern": false,
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937803893"
       }
     },
     "respons_klasse": "Enhet"
