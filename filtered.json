@@ -332,6 +332,78 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "938474575",
+    "navn": "AKERSHUSGRUPPEN NEWCO AS",
+    "organisasjonsform": {
+      "kode": "AS",
+      "beskrivelse": "Aksjeselskap",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "registreringsdatoEnhetsregisteret": "2026-09-11",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO",
+      "adresse": [
+        "Rådhusgata 32"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "stiftelsesdato": "2026-08-17",
+    "institusjonellSektorkode": {
+      "kode": "2100",
+      "beskrivelse": "Private aksjeselskaper mv."
+    },
+    "registrertIForetaksregisteret": true,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "vedtektsdato": "2026-08-17",
+    "vedtektsfestetFormaal": [
+      "Serveringsvirksomhet samt hva hermed står i naturlig forbindelse,",
+      "herunder å delta i andre selskaper med lignende virksomhet."
+    ],
+    "aktivitet": [
+      "Drift av restaurant/kafe.",
+      "Drift av kantine."
+    ],
+    "registreringsdatoForetaksregisteret": "2026-09-11",
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "fravalgRevisjonDato": "2026-09-11",
+    "fravalgRevisjonBeslutningsDato": "2026-08-17",
+    "erIKonsern": false,
+    "kapital": {
+      "belop": 30000,
+      "antallAksjer": 300,
+      "type": "Aksjekapital",
+      "valuta": "NOK",
+      "innfortDato": "2026-09-11"
+    },
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938474575"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937591071",
     "navn": "ALLÉEN AS KONKURSBO",
     "organisasjonsform": {
