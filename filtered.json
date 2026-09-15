@@ -681,11 +681,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
+    "antallAnsatte": 10,
     "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-10",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-28",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -758,12 +759,12 @@
       "kode": "56.110",
       "beskrivelse": "Drift av restauranter"
     },
-    "antallAnsatte": 8,
+    "antallAnsatte": 7,
     "harRegistrertAntallAnsatte": true,
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
     "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-02",
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
@@ -1266,10 +1267,10 @@
     "forretningsadresse": {
       "land": "Norge",
       "landkode": "NO",
-      "postnummer": "0982",
+      "postnummer": "0566",
       "poststed": "OSLO",
       "adresse": [
-        "Stovnerveien 48B"
+        "Langgata 2A"
       ],
       "kommune": "OSLO",
       "kommunenummer": "0301"
