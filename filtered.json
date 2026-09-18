@@ -1168,6 +1168,70 @@
     "respons_klasse": "Enhet"
   },
   {
+    "organisasjonsnummer": "938510563",
+    "navn": "AURSKOG RESTAURANTDRIFT AS KONKURSBO",
+    "organisasjonsform": {
+      "kode": "KBO",
+      "beskrivelse": "Konkursbo",
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      }
+    },
+    "historiskeNavn": [],
+    "postadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0103",
+      "poststed": "OSLO",
+      "adresse": [
+        "v/Adv. Viggo Scherger",
+        "Postboks 394 Sentrum"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-09-17",
+    "registrertIMvaregisteret": false,
+    "naeringskode1": {
+      "kode": "56.110",
+      "beskrivelse": "Drift av restauranter"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "forretningsadresse": {
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1930",
+      "poststed": "AURSKOG",
+      "adresse": [
+        "Aurfaret 25"
+      ],
+      "kommune": "AURSKOG-HØLAND",
+      "kommunenummer": "3226"
+    },
+    "stiftelsesdato": "2026-09-17",
+    "registrertIForetaksregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "konkurs": false,
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "maalform": "Bokmål",
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "registrertIPartiregisteret": false,
+    "paategninger": [],
+    "erIKonsern": false,
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938510563"
+      }
+    },
+    "respons_klasse": "Enhet"
+  },
+  {
     "organisasjonsnummer": "937378122",
     "navn": "AY YED MÆ AS",
     "organisasjonsform": {
