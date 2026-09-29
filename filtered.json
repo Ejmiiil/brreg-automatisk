@@ -1037,6 +1037,76 @@
   {
     "_links": {
       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938489904"
+      }
+    },
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "erIKonsern": false,
+    "forretningsadresse": {
+      "adresse": [
+        "Trygve Lies plass 1"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "1051",
+      "poststed": "OSLO"
+    },
+    "fravalgRevisjonBeslutningsDato": "2026-08-27",
+    "fravalgRevisjonDato": "2026-09-28",
+    "harRegistrertAntallAnsatte": false,
+    "historiskeNavn": [],
+    "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+    },
+    "kapital": {
+      "antallAksjer": 100,
+      "belop": 30000,
+      "innfortDato": "2026-09-28",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+    },
+    "konkurs": false,
+    "maalform": "Bokmål",
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+    },
+    "navn": "ASIAN BITEZ AS",
+    "organisasjonsform": {
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+    },
+    "organisasjonsnummer": "938489904",
+    "paategninger": [],
+    "registreringsdatoEnhetsregisteret": "2026-09-28",
+    "registreringsdatoForetaksregisteret": "2026-09-28",
+    "registrertIForetaksregisteret": true,
+    "registrertIFrivillighetsregisteret": false,
+    "registrertIMvaregisteret": false,
+    "registrertIPartiregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "respons_klasse": "Enhet",
+    "stiftelsesdato": "2026-08-27",
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "vedtektsdato": "2026-08-27",
+    "vedtektsfestetFormaal": [
+      "Drift av restaurant og alt som hører til under dette."
+    ]
+  },
+  {
+    "_links": {
+      "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937442629"
       }
     },
