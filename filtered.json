@@ -792,9 +792,11 @@
       "poststed": "OSLO"
     },
     "registreringsdatoEnhetsregisteret": "2026-10-05",
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-09-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-10-06",
     "registrertIForetaksregisteret": false,
     "registrertIFrivillighetsregisteret": false,
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "registrertIPartiregisteret": false,
     "registrertIStiftelsesregisteret": false,
     "respons_klasse": "Enhet",
