@@ -456,11 +456,9 @@
       "poststed": "OSLO"
     },
     "registreringsdatoEnhetsregisteret": "2026-04-23",
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-03-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-25",
     "registrertIForetaksregisteret": false,
     "registrertIFrivillighetsregisteret": false,
-    "registrertIMvaregisteret": true,
+    "registrertIMvaregisteret": false,
     "registrertIPartiregisteret": false,
     "registrertIStiftelsesregisteret": false,
     "respons_klasse": "Enhet",
