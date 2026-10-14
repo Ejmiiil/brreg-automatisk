@@ -668,7 +668,7 @@
     "aktivitet": [
       "Drift av restaurant/kafe."
     ],
-    "antallAnsatte": 10,
+    "antallAnsatte": 11,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -714,8 +714,8 @@
     },
     "organisasjonsnummer": "937410778",
     "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
     "registreringsdatoEnhetsregisteret": "2026-03-24",
     "registreringsdatoForetaksregisteret": "2026-03-24",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-10",
@@ -814,7 +814,7 @@
       "Produksjon og salg av bakevarer.",
       "Catering."
     ],
-    "antallAnsatte": 7,
+    "antallAnsatte": 13,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -861,8 +861,8 @@
     },
     "organisasjonsnummer": "937035330",
     "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
     "registreringsdatoEnhetsregisteret": "2026-02-12",
     "registreringsdatoForetaksregisteret": "2026-02-12",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
@@ -1177,7 +1177,7 @@
     "aktivitet": [
       "Drift av gatekjøkken."
     ],
-    "antallAnsatte": 6,
+    "antallAnsatte": 7,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -1223,8 +1223,8 @@
     },
     "organisasjonsnummer": "937442629",
     "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
     "registreringsdatoEnhetsregisteret": "2026-03-27",
     "registreringsdatoForetaksregisteret": "2026-03-27",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
