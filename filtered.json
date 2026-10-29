@@ -405,6 +405,149 @@
   {
     "_links": {
       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938766126"
+      }
+    },
+    "aktivitet": [
+      "Konkursbo."
+    ],
+    "erIKonsern": false,
+    "forretningsadresse": {
+      "adresse": [
+        "Hegdehaugsveien 36A"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0352",
+      "poststed": "OSLO"
+    },
+    "harRegistrertAntallAnsatte": false,
+    "historiskeNavn": [],
+    "konkurs": false,
+    "maalform": "Bokmål",
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+    },
+    "navn": "AKKA ARABISK ESPRESSO AS KONKURSBO",
+    "organisasjonsform": {
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+        }
+      },
+      "beskrivelse": "Konkursbo",
+      "kode": "KBO"
+    },
+    "organisasjonsnummer": "938766126",
+    "paategninger": [],
+    "postadresse": {
+      "adresse": [
+        "v/Adv. Kristoffer Aasebø",
+        "Postboks 6604 St. Olavs plass"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0129",
+      "poststed": "OSLO"
+    },
+    "registreringsdatoEnhetsregisteret": "2026-10-28",
+    "registrertIForetaksregisteret": false,
+    "registrertIFrivillighetsregisteret": false,
+    "registrertIMvaregisteret": false,
+    "registrertIPartiregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "respons_klasse": "Enhet",
+    "stiftelsesdato": "2026-10-28",
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false
+  },
+  {
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938285438"
+      }
+    },
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "epostadresse": "ganem66@hotmail.com",
+    "erIKonsern": false,
+    "forretningsadresse": {
+      "adresse": [
+        "c/o Ghanim Talal Ahmed",
+        "Bruksenhetsnummer H0301",
+        "Wilhelms gate 8B"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0168",
+      "poststed": "OSLO"
+    },
+    "fravalgRevisjonBeslutningsDato": "2026-08-03",
+    "fravalgRevisjonDato": "2026-08-18",
+    "harRegistrertAntallAnsatte": false,
+    "historiskeNavn": [
+      {
+        "fraDato": "2026-08-18 15:16:52",
+        "navn": "JNHS 451 AS",
+        "tilDato": "2026-10-24 11:05:51"
+      }
+    ],
+    "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+    },
+    "kapital": {
+      "antallAksjer": 3000,
+      "belop": 30000,
+      "innfortDato": "2026-08-18",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+    },
+    "konkurs": false,
+    "maalform": "Bokmål",
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+    },
+    "navn": "AL ARABI AS",
+    "organisasjonsform": {
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+    },
+    "organisasjonsnummer": "938285438",
+    "paategninger": [],
+    "registreringsdatoEnhetsregisteret": "2026-08-18",
+    "registreringsdatoForetaksregisteret": "2026-08-18",
+    "registrertIForetaksregisteret": true,
+    "registrertIFrivillighetsregisteret": false,
+    "registrertIMvaregisteret": false,
+    "registrertIPartiregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "respons_klasse": "Enhet",
+    "stiftelsesdato": "2026-08-03",
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "vedtektsdato": "2026-09-28",
+    "vedtektsfestetFormaal": [
+      "Å drive restaurantvirksomhet, samt tilsvarende virksomhet."
+    ]
+  },
+  {
+    "_links": {
+      "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937591071"
       }
     },
@@ -790,9 +933,11 @@
       "poststed": "OSLO"
     },
     "registreringsdatoEnhetsregisteret": "2026-10-27",
+    "registreringsdatoMerverdiavgiftsregisteret": "2026-09-01",
+    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-10-28",
     "registrertIForetaksregisteret": false,
     "registrertIFrivillighetsregisteret": false,
-    "registrertIMvaregisteret": false,
+    "registrertIMvaregisteret": true,
     "registrertIPartiregisteret": false,
     "registrertIStiftelsesregisteret": false,
     "respons_klasse": "Enhet",
