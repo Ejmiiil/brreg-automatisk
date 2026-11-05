@@ -160,7 +160,13 @@
       "poststed": "OSLO"
     },
     "harRegistrertAntallAnsatte": false,
-    "historiskeNavn": [],
+    "historiskeNavn": [
+      {
+        "fraDato": "2026-08-10 12:49:26",
+        "navn": "AFGHAN HOUSE SHARAF",
+        "tilDato": "2026-11-04 19:49:28"
+      }
+    ],
     "institusjonellSektorkode": {
       "beskrivelse": "Personlig næringsdrivende",
       "kode": "8200"
@@ -171,7 +177,7 @@
       "beskrivelse": "Drift av restauranter",
       "kode": "56.110"
     },
-    "navn": "AFGHAN HOUSE SHARAF",
+    "navn": "AFGHAN KABUL SHARAF",
     "organisasjonsform": {
       "_links": {
         "self": {
