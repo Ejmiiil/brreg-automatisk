@@ -811,6 +811,80 @@
   {
     "_links": {
       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938825432"
+      }
+    },
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "erIKonsern": false,
+    "forretningsadresse": {
+      "adresse": [
+        "Tuengveien 16"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0374",
+      "poststed": "OSLO"
+    },
+    "fravalgRevisjonBeslutningsDato": "2026-10-01",
+    "fravalgRevisjonDato": "2026-11-06",
+    "harRegistrertAntallAnsatte": false,
+    "historiskeNavn": [],
+    "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+    },
+    "kapital": {
+      "antallAksjer": 10,
+      "belop": 30000,
+      "innfortDato": "2026-11-06",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+    },
+    "konkurs": false,
+    "maalform": "Bokmål",
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+    },
+    "navn": "AMIGOS HAMAR AS",
+    "organisasjonsform": {
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+    },
+    "organisasjonsnummer": "938825432",
+    "paategninger": [],
+    "registreringsdatoEnhetsregisteret": "2026-11-06",
+    "registreringsdatoForetaksregisteret": "2026-11-06",
+    "registrertIForetaksregisteret": true,
+    "registrertIFrivillighetsregisteret": false,
+    "registrertIMvaregisteret": false,
+    "registrertIPartiregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "respons_klasse": "Enhet",
+    "stiftelsesdato": "2026-10-01",
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "vedtektsdato": "2026-10-01",
+    "vedtektsfestetFormaal": [
+      "Restaurantdrift, servering, catering og arrangementer samt beslektet",
+      "virksomhet. Som del av den kommersielle virksomheten skal selskapet",
+      "søke å bidra til å styrke det økonomiske grunnlaget for Storhamar",
+      "Hockey AS gjennom markedsmessige sponsoravtaler, samarbeidsaktiviteter",
+      "og andre tiltak med dokumenterte motytelser."
+    ]
+  },
+  {
+    "_links": {
+      "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937410778"
       }
     },
