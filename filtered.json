@@ -479,21 +479,21 @@
       }
     },
     "aktivitet": [
-      "Drift av restaurant/kafe."
+      "Selge varer og tjenester innen restaurantdrift - og annet som naturlig",
+      "sammenfaller med dette - samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
     ],
     "epostadresse": "ganem66@hotmail.com",
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
-        "c/o Ghanim Talal Ahmed",
-        "Bruksenhetsnummer H0301",
-        "Wilhelms gate 8B"
+        "Grønland 14"
       ],
       "kommune": "OSLO",
       "kommunenummer": "0301",
       "land": "Norge",
       "landkode": "NO",
-      "postnummer": "0168",
+      "postnummer": "0188",
       "poststed": "OSLO"
     },
     "fravalgRevisjonBeslutningsDato": "2026-08-03",
@@ -546,9 +546,11 @@
     "stiftelsesdato": "2026-08-03",
     "underAvvikling": false,
     "underTvangsavviklingEllerTvangsopplosning": false,
-    "vedtektsdato": "2026-09-28",
+    "vedtektsdato": "2026-10-27",
     "vedtektsfestetFormaal": [
-      "Å drive restaurantvirksomhet, samt tilsvarende virksomhet."
+      "Selge varer og tjenester innen restaurantdrift - og annet som naturlig",
+      "sammenfaller med dette - samt deltakelse i andre selskaper,",
+      "investeringer og nærliggende virksomhet."
     ]
   },
   {
@@ -1525,84 +1527,6 @@
     "vedtektsdato": "2026-08-27",
     "vedtektsfestetFormaal": [
       "Drift av restaurant og alt som hører til under dette."
-    ]
-  },
-  {
-    "_links": {
-      "self": {
-        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937442629"
-      }
-    },
-    "aktivitet": [
-      "Drift av gatekjøkken."
-    ],
-    "antallAnsatte": 7,
-    "erIKonsern": false,
-    "forretningsadresse": {
-      "adresse": [
-        "Lørenveien 40"
-      ],
-      "kommune": "OSLO",
-      "kommunenummer": "0301",
-      "land": "Norge",
-      "landkode": "NO",
-      "postnummer": "0585",
-      "poststed": "OSLO"
-    },
-    "fravalgRevisjonBeslutningsDato": "2026-03-05",
-    "fravalgRevisjonDato": "2026-03-27",
-    "harRegistrertAntallAnsatte": true,
-    "historiskeNavn": [],
-    "institusjonellSektorkode": {
-      "beskrivelse": "Private aksjeselskaper mv.",
-      "kode": "2100"
-    },
-    "kapital": {
-      "antallAksjer": 30000,
-      "belop": 30000,
-      "innfortDato": "2026-03-27",
-      "type": "Aksjekapital",
-      "valuta": "NOK"
-    },
-    "konkurs": false,
-    "maalform": "Bokmål",
-    "naeringskode1": {
-      "beskrivelse": "Drift av restauranter",
-      "kode": "56.110"
-    },
-    "navn": "ASR RESTAURANT AS",
-    "organisasjonsform": {
-      "_links": {
-        "self": {
-          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
-        }
-      },
-      "beskrivelse": "Aksjeselskap",
-      "kode": "AS"
-    },
-    "organisasjonsnummer": "937442629",
-    "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
-    "registreringsdatoEnhetsregisteret": "2026-03-27",
-    "registreringsdatoForetaksregisteret": "2026-03-27",
-    "registreringsdatoMerverdiavgiftsregisteret": "2026-05-01",
-    "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-02",
-    "registrertIForetaksregisteret": true,
-    "registrertIFrivillighetsregisteret": false,
-    "registrertIMvaregisteret": true,
-    "registrertIPartiregisteret": false,
-    "registrertIStiftelsesregisteret": false,
-    "respons_klasse": "Enhet",
-    "stiftelsesdato": "2026-03-05",
-    "underAvvikling": false,
-    "underTvangsavviklingEllerTvangsopplosning": false,
-    "vedtektsdato": "2026-03-05",
-    "vedtektsfestetFormaal": [
-      "Kioskdrift og gatekjøkken og salg av produkter som naturlig faller",
-      "sammen med dette, herunder å delta i andre selskaper med lignende",
-      "virksomhet. Kjøp og salg av aksjer eller på annen måte gjøre seg",
-      "interessert i andre foretak."
     ]
   }
 ]
