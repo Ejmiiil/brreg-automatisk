@@ -893,7 +893,7 @@
     "aktivitet": [
       "Drift av restaurant/kafe."
     ],
-    "antallAnsatte": 11,
+    "antallAnsatte": 7,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -939,8 +939,8 @@
     },
     "organisasjonsnummer": "937410778",
     "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
     "registreringsdatoEnhetsregisteret": "2026-03-24",
     "registreringsdatoForetaksregisteret": "2026-03-24",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-04-10",
@@ -1175,7 +1175,7 @@
       "Produksjon og salg av bakevarer.",
       "Catering."
     ],
-    "antallAnsatte": 13,
+    "antallAnsatte": 7,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -1222,8 +1222,8 @@
     },
     "organisasjonsnummer": "937035330",
     "paategninger": [],
-    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-10-13",
-    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-10-10",
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
     "registreringsdatoEnhetsregisteret": "2026-02-12",
     "registreringsdatoForetaksregisteret": "2026-02-12",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-03-02",
@@ -1255,6 +1255,7 @@
     "aktivitet": [
       "Drift av restaurant/kafe."
     ],
+    "antallAnsatte": 14,
     "erIKonsern": false,
     "forretningsadresse": {
       "adresse": [
@@ -1267,7 +1268,7 @@
       "postnummer": "0158",
       "poststed": "OSLO"
     },
-    "harRegistrertAntallAnsatte": false,
+    "harRegistrertAntallAnsatte": true,
     "historiskeNavn": [],
     "institusjonellSektorkode": {
       "beskrivelse": "Private aksjeselskaper mv.",
@@ -1309,6 +1310,8 @@
       "postnummer": "1387",
       "poststed": "ASKER"
     },
+    "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-11-12",
+    "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-11-10",
     "registreringsdatoEnhetsregisteret": "2026-06-01",
     "registreringsdatoForetaksregisteret": "2026-06-01",
     "registreringsdatoMerverdiavgiftsregisteret": "2026-09-21",
@@ -1468,7 +1471,7 @@
     "aktivitet": [
       "Drift av restaurant/kafe."
     ],
-    "erIKonsern": false,
+    "erIKonsern": true,
     "forretningsadresse": {
       "adresse": [
         "Trygve Lies plass 1"
