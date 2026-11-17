@@ -411,6 +411,77 @@
   {
     "_links": {
       "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938838682"
+      }
+    },
+    "aktivitet": [
+      "Drift av restaurant/kafe."
+    ],
+    "erIKonsern": false,
+    "forretningsadresse": {
+      "adresse": [
+        "Rådhusgata 32"
+      ],
+      "kommune": "OSLO",
+      "kommunenummer": "0301",
+      "land": "Norge",
+      "landkode": "NO",
+      "postnummer": "0151",
+      "poststed": "OSLO"
+    },
+    "fravalgRevisjonBeslutningsDato": "2026-10-12",
+    "fravalgRevisjonDato": "2026-11-17",
+    "harRegistrertAntallAnsatte": false,
+    "historiskeNavn": [],
+    "institusjonellSektorkode": {
+      "beskrivelse": "Private aksjeselskaper mv.",
+      "kode": "2100"
+    },
+    "kapital": {
+      "antallAksjer": 300,
+      "belop": 30000,
+      "innfortDato": "2026-11-17",
+      "type": "Aksjekapital",
+      "valuta": "NOK"
+    },
+    "konkurs": false,
+    "maalform": "Bokmål",
+    "naeringskode1": {
+      "beskrivelse": "Drift av restauranter",
+      "kode": "56.110"
+    },
+    "navn": "AKERSHUSGRUPPEN NEWCO2 AS",
+    "organisasjonsform": {
+      "_links": {
+        "self": {
+          "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+        }
+      },
+      "beskrivelse": "Aksjeselskap",
+      "kode": "AS"
+    },
+    "organisasjonsnummer": "938838682",
+    "paategninger": [],
+    "registreringsdatoEnhetsregisteret": "2026-11-17",
+    "registreringsdatoForetaksregisteret": "2026-11-17",
+    "registrertIForetaksregisteret": true,
+    "registrertIFrivillighetsregisteret": false,
+    "registrertIMvaregisteret": false,
+    "registrertIPartiregisteret": false,
+    "registrertIStiftelsesregisteret": false,
+    "respons_klasse": "Enhet",
+    "stiftelsesdato": "2026-10-12",
+    "underAvvikling": false,
+    "underTvangsavviklingEllerTvangsopplosning": false,
+    "vedtektsdato": "2026-10-12",
+    "vedtektsfestetFormaal": [
+      "Serveringsvirksomhet samt hva hermed står i naturlig forbindelse,",
+      "herunder å delta i andre selskaper med lignende virksomhet."
+    ]
+  },
+  {
+    "_links": {
+      "self": {
         "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938766126"
       }
     },
